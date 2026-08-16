@@ -1,9 +1,13 @@
 # minimal-music-for-c#
 重构音乐播放器（功能和electron版一致）
 
-无需安装，双击exe运行
+运行需要.net10
 
+到微软官网下载，或点右边releases下载windowsdesktop-runtime-10.0.10-win-x64.exe
 
+播放器无需安装，双击exe运行
+
+-
 
 播放器首次运行文件：
 
@@ -30,8 +34,5 @@
 切换歌曲，或重新打开
 
 不行就删除所有旧数据，重新运行exe
-
-3.打不开，提示安装net10？
-到官网下载安装，或点右边releases下载
 
 
