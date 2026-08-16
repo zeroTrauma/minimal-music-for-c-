@@ -4,8 +4,11 @@
 无需安装，双击exe运行
 
 播放器首次运行文件：
+
 自动生成bitmapimage文件夹，加载歌曲将专辑封面存在bitmapimage文件夹（300首歌曲大概占用5m）
+
 自动生成music.json
+
 备注：重新加载歌曲，会刷新bitmapimage和music.json
 
 外观
