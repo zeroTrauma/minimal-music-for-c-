@@ -1,5 +1,5 @@
 # minimal-music-for-c#
-重构音乐播放器
+重构音乐播放器（功能和electron版一致）
 
 无需安装，双击exe运行
 
