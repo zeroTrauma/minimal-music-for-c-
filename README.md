@@ -8,7 +8,7 @@
 ## 📦 运行环境
 
 - 需要 **.NET 10** 运行时  
-  - 从 [微软官网](https://dotnet.microsoft.com/en-us/download/dotnet/10.0) 下载，或点击右侧 **Releases** 下载 `windowsdesktop-runtime-10.0.10-win-x64.exe` 安装。
+  - 从 [微软官网](https://dotnet.microsoft.com/en-us/download/dotnet/10.0) 下载，或点击右侧 **Releases** 下载 `windowsdesktop-runtime-10.0.10-win-x64.exe` 。
 
 ---
 
