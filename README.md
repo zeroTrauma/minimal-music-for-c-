@@ -1,7 +1,6 @@
 # 🎵 Minimal Music Player for C#
 
 > 重构音乐播放器，功能与 Electron 版完全一致。  
-> 轻量、简洁，无需安装，双击即用。
 
 ---
 
