@@ -3,11 +3,9 @@
 
 运行需要.net10
 
--到微软官网下载，或点右边releases下载windowsdesktop-runtime-10.0.10-win-x64.exe
-<br>
-播放器无需安装，双击exe运行
+-到微软官网下载，或点右边releases下载windowsdesktop-runtime-10.0.10-win-x64.exe  
 
-
+播放器无需安装，双击exe运行  
 
 播放器首次运行文件：
 
